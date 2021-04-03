@@ -9,7 +9,7 @@ a:hover {
 
 body {
     background-color: #d6f5f5;
-    height: 2000px;
+    height: 1000px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .navbar-header {
@@ -30,7 +30,6 @@ body {
 }
 
 .navbar-brand h1 {
-    font-family: 'Lora', serif;
     color: #f31690;
     font-size: 34px;
     text-transform: uppercase;
