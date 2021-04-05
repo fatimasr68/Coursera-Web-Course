@@ -9,12 +9,12 @@ This repository contains my solutions to the assignments of the Coursera course
 ## Assignments
 
 ### Module 2
-* [Assignment description](./descriptions/assignment2/Assignment-2.md)
+* [Assignment description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
 * Deadline: December 18, 11:59 PM PST
 * [Solution](https://fatimasr68.github.io/Coursera-Web-Course/module2-solution/)
 
 ### Module 3
-* [Assignment description](./descriptions/assignment3/Assignment-3.md)
+* [Assignment description]()
 * Deadline: December 25, 11:59 PM PST
 * [Solution](https://fatimasr68.github.io/Coursera-Web-Course/module3-solution/)
 
