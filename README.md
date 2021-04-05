@@ -16,7 +16,5 @@ This repository contains my solutions to the assignments of the Coursera course
 ### Module 3
 * [Assignment description](./descriptions/assignment3/Assignment-3.md)
 * Deadline: December 25, 11:59 PM PST
-* [Basic Solution (without most of the optional parts)](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module3_solution/index_basic.html)
 * [Solution](https://fatimasr68.github.io/Coursera-Web-Course/module3-solution/)
 
-### Module 
