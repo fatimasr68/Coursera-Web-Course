@@ -1,3 +1,6 @@
-HTML, CSS, and Javascript for Web Developers
+#### Module-3 Assignment
 
-Here is the link to the module2-solution: https://fatimasr68.github.io/Coursera-Web-Course/module3-solution/
+## HTML, CSS, and Javascript for Web Developers
+
+### Here is the link to the module3-solution: [Solution](https://fatimasr68.github.io/Coursera-Web-Course/module3-solution/index.html)
+
