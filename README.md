@@ -18,3 +18,12 @@ This repository contains my solutions to the assignments of the Coursera course
 * Due: Mar 22, 10:59 AM +04
 * [Solution](https://fatimasr68.github.io/Coursera-Web-Course/module3-solution/)
 
+### Module 4
+* [Assignment description]( https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
+* Due: April 5, 10:59 AM +04
+* [Solution](https://fatimasr68.github.io/Coursera-Web-Course/module4-solution/)
+
+### Module 5
+* [Assignment description]( https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
+* Due: April 6, 10:59 AM +04
+* [Solution](https://fatimasr68.github.io/Coursera-Web-Course/module5-solution/)
